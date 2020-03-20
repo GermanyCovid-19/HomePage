@@ -1,0 +1,2118 @@
+{
+  "Infiziert": "20098",
+  "Genesen": "427",
+  "Verstorben": "56",
+  "I/100K": "24.21",
+  "Nordrhein-Westfalen": {
+    "Infiziert": "6301",
+    "Verstorben": "21",
+    "I/100k": "35.1",
+    "Jede Stadt": [
+      {
+        "Stadt": "Heinsberg",
+        "Fälle": "890",
+        "I/100K": "350.0"
+      },
+      {
+        "Stadt": "Köln",
+        "Fälle": "521",
+        "I/100K": "48.0"
+      },
+      {
+        "Stadt": "Städteregion Aachen",
+        "Fälle": "405",
+        "I/100K": "72.9"
+      },
+      {
+        "Stadt": "Borken",
+        "Fälle": "209",
+        "I/100K": "56.4"
+      },
+      {
+        "Stadt": "Rhein-Sieg-Kreis",
+        "Fälle": "204",
+        "I/100K": "34.0"
+      },
+      {
+        "Stadt": "Düsseldorf",
+        "Fälle": "187",
+        "I/100K": "30.2"
+      },
+      {
+        "Stadt": "Münster",
+        "Fälle": "173",
+        "I/100K": "55.0"
+      },
+      {
+        "Stadt": "Essen",
+        "Fälle": "164",
+        "I/100K": "28.1"
+      },
+      {
+        "Stadt": "Gütersloh",
+        "Fälle": "157",
+        "I/100K": "43.1"
+      },
+      {
+        "Stadt": "Steinfurt",
+        "Fälle": "150",
+        "I/100K": "33.5"
+      },
+      {
+        "Stadt": "Warendorf",
+        "Fälle": "138",
+        "I/100K": "49.7"
+      },
+      {
+        "Stadt": "Wesel",
+        "Fälle": "132",
+        "I/100K": "28.7"
+      },
+      {
+        "Stadt": "Minden-Lübbecke",
+        "Fälle": "125",
+        "I/100K": "40.2"
+      },
+      {
+        "Stadt": "Rhein-Erft-Kreis",
+        "Fälle": "124",
+        "I/100K": "26.4"
+      },
+      {
+        "Stadt": "Lippe",
+        "Fälle": "114",
+        "I/100K": "32.7"
+      },
+      {
+        "Stadt": "Coesfeld",
+        "Fälle": "113",
+        "I/100K": "51.4"
+      },
+      {
+        "Stadt": "Düren",
+        "Fälle": "107",
+        "I/100K": "40.6"
+      },
+      {
+        "Stadt": "Dortmund",
+        "Fälle": "106",
+        "I/100K": "18.1"
+      },
+      {
+        "Stadt": "Recklinghausen",
+        "Fälle": "96",
+        "I/100K": "15.6"
+      },
+      {
+        "Stadt": "Hochsauerlandkreis",
+        "Fälle": "92",
+        "I/100K": "35.3"
+      },
+      {
+        "Stadt": "Bonn",
+        "Fälle": "92",
+        "I/100K": "28.1"
+      },
+      {
+        "Stadt": "Kleve",
+        "Fälle": "89",
+        "I/100K": "28.6"
+      },
+      {
+        "Stadt": "Mettmann",
+        "Fälle": "87",
+        "I/100K": "17.9"
+      },
+      {
+        "Stadt": "Rhein-Kreis Neuss",
+        "Fälle": "85",
+        "I/100K": "18.8"
+      },
+      {
+        "Stadt": "Duisburg",
+        "Fälle": "75",
+        "I/100K": "15.0"
+      },
+      {
+        "Stadt": "Herford",
+        "Fälle": "72",
+        "I/100K": "28.7"
+      },
+      {
+        "Stadt": "Paderborn",
+        "Fälle": "71",
+        "I/100K": "23.1"
+      },
+      {
+        "Stadt": "Krefeld",
+        "Fälle": "71",
+        "I/100K": "31.3"
+      },
+      {
+        "Stadt": "Viersen",
+        "Fälle": "70",
+        "I/100K": "23.4"
+      },
+      {
+        "Stadt": "Rheinisch-Bergischer Kreis",
+        "Fälle": "69",
+        "I/100K": "24.3"
+      },
+      {
+        "Stadt": "Wuppertal",
+        "Fälle": "61",
+        "I/100K": "17.2"
+      },
+      {
+        "Stadt": "Oberbergischer Kreis",
+        "Fälle": "57",
+        "I/100K": "20.9"
+      },
+      {
+        "Stadt": "Bielefeld",
+        "Fälle": "55",
+        "I/100K": "16.5"
+      },
+      {
+        "Stadt": "Mönchengladbach",
+        "Fälle": "51",
+        "I/100K": "19.5"
+      },
+      {
+        "Stadt": "Bochum",
+        "Fälle": "51",
+        "I/100K": "14.0"
+      },
+      {
+        "Stadt": "Soest",
+        "Fälle": "49",
+        "I/100K": "16.2"
+      },
+      {
+        "Stadt": "Unna",
+        "Fälle": "46",
+        "I/100K": "11.7"
+      },
+      {
+        "Stadt": "Leverkusen",
+        "Fälle": "40",
+        "I/100K": "24.4"
+      },
+      {
+        "Stadt": "Gelsenkirchen",
+        "Fälle": "38",
+        "I/100K": "14.6"
+      },
+      {
+        "Stadt": "Ennepe-Ruhr-Kreis",
+        "Fälle": "38",
+        "I/100K": "11.7"
+      },
+      {
+        "Stadt": "Märkischer Kreis",
+        "Fälle": "36",
+        "I/100K": "8.7"
+      },
+      {
+        "Stadt": "Solingen",
+        "Fälle": "35",
+        "I/100K": "22.0"
+      },
+      {
+        "Stadt": "Oberhausen",
+        "Fälle": "34",
+        "I/100K": "16.1"
+      },
+      {
+        "Stadt": "Mülheim an der Ruhr",
+        "Fälle": "30",
+        "I/100K": "17.6"
+      },
+      {
+        "Stadt": "Siegen-Wittgenstein",
+        "Fälle": "29",
+        "I/100K": "10.4"
+      },
+      {
+        "Stadt": "Euskirchen",
+        "Fälle": "29",
+        "I/100K": "15.0"
+      },
+      {
+        "Stadt": "Hagen",
+        "Fälle": "28",
+        "I/100K": "14.8"
+      },
+      {
+        "Stadt": "Hamm",
+        "Fälle": "26",
+        "I/100K": "14.5"
+      },
+      {
+        "Stadt": "Remscheid",
+        "Fälle": "19",
+        "I/100K": "17.1"
+      },
+      {
+        "Stadt": "Olpe",
+        "Fälle": "17",
+        "I/100K": "12.6"
+      },
+      {
+        "Stadt": "Herne",
+        "Fälle": "13",
+        "I/100K": "8.3"
+      },
+      {
+        "Stadt": "Bottrop",
+        "Fälle": "13",
+        "I/100K": "11.1"
+      },
+      {
+        "Stadt": "Höxter",
+        "Fälle": "12",
+        "I/100K": "8.5"
+      }
+    ]
+  },
+  "Baden-Württemberg": {
+    "Infiziert": "3665",
+    "Verstorben": "12",
+    "I/100k": "33.1",
+    "Jede Stadt": [
+      {
+        "Stadt": "Stuttgart",
+        "Fälle": "284",
+        "I/100K": "44.7"
+      },
+      {
+        "Stadt": "Kreis Esslingen",
+        "Fälle": "234",
+        "I/100K": "43.8"
+      },
+      {
+        "Stadt": "Hohenlohekreis",
+        "Fälle": "154",
+        "I/100K": "137.5"
+      },
+      {
+        "Stadt": "Kreis Karlsruhe",
+        "Fälle": "151",
+        "I/100K": "34.0"
+      },
+      {
+        "Stadt": "Rhein-Neckar-Kreis",
+        "Fälle": "144",
+        "I/100K": "26.3"
+      },
+      {
+        "Stadt": "Kreis Ludwigsburg",
+        "Fälle": "126",
+        "I/100K": "23.2"
+      },
+      {
+        "Stadt": "Kreis Tübingen",
+        "Fälle": "125",
+        "I/100K": "55.0"
+      },
+      {
+        "Stadt": "Freiburg",
+        "Fälle": "114",
+        "I/100K": "49.5"
+      },
+      {
+        "Stadt": "Landkreis Heilbronn",
+        "Fälle": "110",
+        "I/100K": "32.1"
+      },
+      {
+        "Stadt": "Heilbronn",
+        "Fälle": "110",
+        "I/100K": "87.3"
+      },
+      {
+        "Stadt": "Kreis Rastatt",
+        "Fälle": "104",
+        "I/100K": "45.0"
+      },
+      {
+        "Stadt": "Breisgau-Hochschwarzwald",
+        "Fälle": "101",
+        "I/100K": "38.4"
+      },
+      {
+        "Stadt": "Kreis Emmendingen",
+        "Fälle": "99",
+        "I/100K": "59.9"
+      },
+      {
+        "Stadt": "Kreis Ravensburg",
+        "Fälle": "93",
+        "I/100K": "32.7"
+      },
+      {
+        "Stadt": "Ostalbkreis",
+        "Fälle": "85",
+        "I/100K": "27.1"
+      },
+      {
+        "Stadt": "Rems-Murr-Kreis",
+        "Fälle": "79",
+        "I/100K": "18.5"
+      },
+      {
+        "Stadt": "Kreis Calw",
+        "Fälle": "76",
+        "I/100K": "48.0"
+      },
+      {
+        "Stadt": "Karlsruhe",
+        "Fälle": "75",
+        "I/100K": "24.0"
+      },
+      {
+        "Stadt": "Mannheim",
+        "Fälle": "73",
+        "I/100K": "23.6"
+      },
+      {
+        "Stadt": "Reutlingen",
+        "Fälle": "71",
+        "I/100K": "24.8"
+      },
+      {
+        "Stadt": "Kreis Göppingen",
+        "Fälle": "64",
+        "I/100K": "24.9"
+      },
+      {
+        "Stadt": "Bodenseekreis",
+        "Fälle": "62",
+        "I/100K": "28.7"
+      },
+      {
+        "Stadt": "Kreis Schwäbisch Hall",
+        "Fälle": "61",
+        "I/100K": "31.1"
+      },
+      {
+        "Stadt": "Zollernalbkreis",
+        "Fälle": "60",
+        "I/100K": "31.8"
+      },
+      {
+        "Stadt": "Heidelberg",
+        "Fälle": "57",
+        "I/100K": "35.5"
+      },
+      {
+        "Stadt": "Ortenaukreis",
+        "Fälle": "55",
+        "I/100K": "12.8"
+      },
+      {
+        "Stadt": "Ulm",
+        "Fälle": "46",
+        "I/100K": "36.4"
+      },
+      {
+        "Stadt": "Kreis Biberach",
+        "Fälle": "45",
+        "I/100K": "22.5"
+      },
+      {
+        "Stadt": "Alb-Donau-Kreis",
+        "Fälle": "43",
+        "I/100K": "21.9"
+      },
+      {
+        "Stadt": "Kreis Konstanz",
+        "Fälle": "43",
+        "I/100K": "15.1"
+      },
+      {
+        "Stadt": "Kreis Lörrach",
+        "Fälle": "41",
+        "I/100K": "17.9"
+      },
+      {
+        "Stadt": "Kreis Sigmaringen",
+        "Fälle": "41",
+        "I/100K": "31.3"
+      },
+      {
+        "Stadt": "Kreis Heidenheim",
+        "Fälle": "34",
+        "I/100K": "25.7"
+      },
+      {
+        "Stadt": "Main-Tauber-Kreis",
+        "Fälle": "33",
+        "I/100K": "24.9"
+      },
+      {
+        "Stadt": "Kreis Böblingen",
+        "Fälle": "28",
+        "I/100K": "7.1"
+      },
+      {
+        "Stadt": "Schwarzwald-Baar-Kreis",
+        "Fälle": "28",
+        "I/100K": "13.2"
+      },
+      {
+        "Stadt": "Enzkreis",
+        "Fälle": "21",
+        "I/100K": "10.6"
+      },
+      {
+        "Stadt": "Neckar-Odenwald-Kreis",
+        "Fälle": "20",
+        "I/100K": "13.9"
+      },
+      {
+        "Stadt": "Baden-Baden",
+        "Fälle": "19",
+        "I/100K": "34.5"
+      },
+      {
+        "Stadt": "Kreis Freudenstadt",
+        "Fälle": "14",
+        "I/100K": "11.9"
+      },
+      {
+        "Stadt": "Pforzheim",
+        "Fälle": "11",
+        "I/100K": "8.8"
+      },
+      {
+        "Stadt": "Tuttlingen",
+        "Fälle": "10",
+        "I/100K": "7.1"
+      },
+      {
+        "Stadt": "Kreis Rottweil",
+        "Fälle": "5",
+        "I/100K": "3.6"
+      },
+      {
+        "Stadt": "Waldshut",
+        "Fälle": "5",
+        "I/100K": "2.9"
+      }
+    ]
+  },
+  "Bayern": {
+    "Infiziert": "3439",
+    "Verstorben": "15",
+    "I/100k": "26.3",
+    "Jede Stadt": [
+      {
+        "Stadt": "München Stadt",
+        "Fälle": "591",
+        "I/100K": "40.2"
+      },
+      {
+        "Stadt": "München",
+        "Fälle": "321",
+        "I/100K": "92.0"
+      },
+      {
+        "Stadt": "Freising",
+        "Fälle": "164",
+        "I/100K": "91.6"
+      },
+      {
+        "Stadt": "Günzburg",
+        "Fälle": "88",
+        "I/100K": "70.0"
+      },
+      {
+        "Stadt": "Nürnberg Stadt",
+        "Fälle": "74",
+        "I/100K": "14.3"
+      },
+      {
+        "Stadt": "Würzburg",
+        "Fälle": "74",
+        "I/100K": "45.7"
+      },
+      {
+        "Stadt": "Starnberg",
+        "Fälle": "69",
+        "I/100K": "50.7"
+      },
+      {
+        "Stadt": "Rosenheim",
+        "Fälle": "66",
+        "I/100K": "25.3"
+      },
+      {
+        "Stadt": "Regensburg Stadt",
+        "Fälle": "64",
+        "I/100K": "41.9"
+      },
+      {
+        "Stadt": "Tirschenreuth",
+        "Fälle": "62",
+        "I/100K": "85.5"
+      },
+      {
+        "Stadt": "Miesbach",
+        "Fälle": "58",
+        "I/100K": "58.2"
+      },
+      {
+        "Stadt": "Landshut Stadt",
+        "Fälle": "57",
+        "I/100K": "78.7"
+      },
+      {
+        "Stadt": "Würzburg Stadt",
+        "Fälle": "55",
+        "I/100K": "43.0"
+      },
+      {
+        "Stadt": "Augsburg Stadt",
+        "Fälle": "54",
+        "I/100K": "18.3"
+      },
+      {
+        "Stadt": "Regensburg",
+        "Fälle": "54",
+        "I/100K": "27.9"
+      },
+      {
+        "Stadt": "Erding",
+        "Fälle": "53",
+        "I/100K": "38.5"
+      },
+      {
+        "Stadt": "Rottal-Inn",
+        "Fälle": "51",
+        "I/100K": "42.3"
+      },
+      {
+        "Stadt": "Weilheim-Schongau",
+        "Fälle": "48",
+        "I/100K": "35.5"
+      },
+      {
+        "Stadt": "Oberallgäu",
+        "Fälle": "47",
+        "I/100K": "30.3"
+      },
+      {
+        "Stadt": "Dachau",
+        "Fälle": "45",
+        "I/100K": "29.2"
+      },
+      {
+        "Stadt": "Ebersberg",
+        "Fälle": "42",
+        "I/100K": "29.5"
+      },
+      {
+        "Stadt": "Cham",
+        "Fälle": "40",
+        "I/100K": "31.3"
+      },
+      {
+        "Stadt": "Bamberg",
+        "Fälle": "38",
+        "I/100K": "25.8"
+      },
+      {
+        "Stadt": "Augsburg",
+        "Fälle": "37",
+        "I/100K": "14.7"
+      },
+      {
+        "Stadt": "Fürstenfeldbruck",
+        "Fälle": "36",
+        "I/100K": "16.4"
+      },
+      {
+        "Stadt": "Landsberg am Lech",
+        "Fälle": "36",
+        "I/100K": "30.0"
+      },
+      {
+        "Stadt": "Deggendorf",
+        "Fälle": "35",
+        "I/100K": "29.3"
+      },
+      {
+        "Stadt": "Lindau (Bodensee)",
+        "Fälle": "35",
+        "I/100K": "42.9"
+      },
+      {
+        "Stadt": "Rosenheim Stadt",
+        "Fälle": "35",
+        "I/100K": "55.3"
+      },
+      {
+        "Stadt": "Traunstein",
+        "Fälle": "34",
+        "I/100K": "19.2"
+      },
+      {
+        "Stadt": "Kempten Stadt",
+        "Fälle": "32",
+        "I/100K": "46.4"
+      },
+      {
+        "Stadt": "Aschaffenburg Stadt",
+        "Fälle": "31",
+        "I/100K": "44.0"
+      },
+      {
+        "Stadt": "Bad Tölz",
+        "Fälle": "31",
+        "I/100K": "24.4"
+      },
+      {
+        "Stadt": "Neuburg-Schrobenhausen",
+        "Fälle": "29",
+        "I/100K": "30.0"
+      },
+      {
+        "Stadt": "Garmisch-Partenkirchen",
+        "Fälle": "27",
+        "I/100K": "30.5"
+      },
+      {
+        "Stadt": "Unterallgäu",
+        "Fälle": "27",
+        "I/100K": "18.7"
+      },
+      {
+        "Stadt": "Aichach-Friedberg",
+        "Fälle": "24",
+        "I/100K": "18.0"
+      },
+      {
+        "Stadt": "Neu-Ulm",
+        "Fälle": "24",
+        "I/100K": "13.8"
+      },
+      {
+        "Stadt": "Passau",
+        "Fälle": "23",
+        "I/100K": "12.0"
+      },
+      {
+        "Stadt": "Regen",
+        "Fälle": "23",
+        "I/100K": "29.6"
+      },
+      {
+        "Stadt": "Schwandorf",
+        "Fälle": "23",
+        "I/100K": "15.6"
+      },
+      {
+        "Stadt": "Bamberg Stadt",
+        "Fälle": "22",
+        "I/100K": "28.4"
+      },
+      {
+        "Stadt": "Dingolfing-Landau",
+        "Fälle": "22",
+        "I/100K": "22.9"
+      },
+      {
+        "Stadt": "Ostallgäu",
+        "Fälle": "22",
+        "I/100K": "15.7"
+      },
+      {
+        "Stadt": "Aschaffenburg",
+        "Fälle": "20",
+        "I/100K": "11.5"
+      },
+      {
+        "Stadt": "Straubing-Bogen",
+        "Fälle": "20",
+        "I/100K": "19.9"
+      },
+      {
+        "Stadt": "Hof",
+        "Fälle": "19",
+        "I/100K": "19.9"
+      },
+      {
+        "Stadt": "Miltenberg",
+        "Fälle": "19",
+        "I/100K": "14.8"
+      },
+      {
+        "Stadt": "Neumarkt i.d.Opf.",
+        "Fälle": "19",
+        "I/100K": "14.2"
+      },
+      {
+        "Stadt": "Pfaffenhofen a.d.Ilm",
+        "Fälle": "19",
+        "I/100K": "14.9"
+      },
+      {
+        "Stadt": "Straubing Stadt",
+        "Fälle": "19",
+        "I/100K": "39.8"
+      },
+      {
+        "Stadt": "Amberg-Sulzbach",
+        "Fälle": "18",
+        "I/100K": "17.5"
+      },
+      {
+        "Stadt": "Erlangen-Höchstadt",
+        "Fälle": "18",
+        "I/100K": "13.2"
+      },
+      {
+        "Stadt": "Forchheim",
+        "Fälle": "18",
+        "I/100K": "15.5"
+      },
+      {
+        "Stadt": "Landshut",
+        "Fälle": "18",
+        "I/100K": "11.3"
+      },
+      {
+        "Stadt": "Neustadt a.d. Aisch-Bad Windsheim",
+        "Fälle": "18",
+        "I/100K": "17.9"
+      },
+      {
+        "Stadt": "Coburg Stadt",
+        "Fälle": "17",
+        "I/100K": "41.2"
+      },
+      {
+        "Stadt": "Coburg",
+        "Fälle": "16",
+        "I/100K": "18.4"
+      },
+      {
+        "Stadt": "Fürth Stadt",
+        "Fälle": "16",
+        "I/100K": "12.5"
+      },
+      {
+        "Stadt": "Kelheim",
+        "Fälle": "16",
+        "I/100K": "13.1"
+      },
+      {
+        "Stadt": "Mühldorf a.Inn",
+        "Fälle": "16",
+        "I/100K": "13.9"
+      },
+      {
+        "Stadt": "Schweinfurt",
+        "Fälle": "16",
+        "I/100K": "13.9"
+      },
+      {
+        "Stadt": "Wunsiedel i. Fichtelgebirge",
+        "Fälle": "16",
+        "I/100K": "21.9"
+      },
+      {
+        "Stadt": "Erlangen Stadt",
+        "Fälle": "15",
+        "I/100K": "13.4"
+      },
+      {
+        "Stadt": "Freyung-Grafenau",
+        "Fälle": "14",
+        "I/100K": "17.9"
+      },
+      {
+        "Stadt": "Haßberge",
+        "Fälle": "14",
+        "I/100K": "16.5"
+      },
+      {
+        "Stadt": "Altötting",
+        "Fälle": "13",
+        "I/100K": "11.7"
+      },
+      {
+        "Stadt": "Bayreuth",
+        "Fälle": "13",
+        "I/100K": "12.5"
+      },
+      {
+        "Stadt": "Eichstätt",
+        "Fälle": "13",
+        "I/100K": "9.8"
+      },
+      {
+        "Stadt": "Kulmbach",
+        "Fälle": "12",
+        "I/100K": "16.7"
+      },
+      {
+        "Stadt": "Main-Spessart",
+        "Fälle": "12",
+        "I/100K": "9.5"
+      },
+      {
+        "Stadt": "Roth",
+        "Fälle": "12",
+        "I/100K": "9.5"
+      },
+      {
+        "Stadt": "Donau-Ries",
+        "Fälle": "11",
+        "I/100K": "8.2"
+      },
+      {
+        "Stadt": "Kitzingen",
+        "Fälle": "11",
+        "I/100K": "12.1"
+      },
+      {
+        "Stadt": "Ansbach Stadt",
+        "Fälle": "9",
+        "I/100K": "21.5"
+      },
+      {
+        "Stadt": "Bad Kissingen",
+        "Fälle": "9",
+        "I/100K": "8.7"
+      },
+      {
+        "Stadt": "Memmingen Stadt",
+        "Fälle": "9",
+        "I/100K": "20.5"
+      },
+      {
+        "Stadt": "Berchtesgadener Land",
+        "Fälle": "8",
+        "I/100K": "7.6"
+      },
+      {
+        "Stadt": "Hof Stadt",
+        "Fälle": "8",
+        "I/100K": "17.4"
+      },
+      {
+        "Stadt": "Rhön-Grabfeld",
+        "Fälle": "8",
+        "I/100K": "10.0"
+      },
+      {
+        "Stadt": "Schwabach Stadt",
+        "Fälle": "8",
+        "I/100K": "19.6"
+      },
+      {
+        "Stadt": "Weißenburg-Gunzenhausen",
+        "Fälle": "8",
+        "I/100K": "8.5"
+      },
+      {
+        "Stadt": "Fürth",
+        "Fälle": "7",
+        "I/100K": "6.0"
+      },
+      {
+        "Stadt": "Lichtenfels",
+        "Fälle": "7",
+        "I/100K": "10.5"
+      },
+      {
+        "Stadt": "Neustadt a. d. Waldnaab",
+        "Fälle": "7",
+        "I/100K": "7.4"
+      },
+      {
+        "Stadt": "Nürnberger Land",
+        "Fälle": "7",
+        "I/100K": "4.1"
+      },
+      {
+        "Stadt": "Weiden Stadt",
+        "Fälle": "7",
+        "I/100K": "16.5"
+      },
+      {
+        "Stadt": "Dillingen a.d. Donau",
+        "Fälle": "6",
+        "I/100K": "6.2"
+      },
+      {
+        "Stadt": "Passau Stadt",
+        "Fälle": "6",
+        "I/100K": "11.4"
+      },
+      {
+        "Stadt": "Kaufbeuren Stadt",
+        "Fälle": "5",
+        "I/100K": "11.4"
+      },
+      {
+        "Stadt": "Ingolstadt Stadt",
+        "Fälle": "4",
+        "I/100K": "2.9"
+      },
+      {
+        "Stadt": "Kronach",
+        "Fälle": "4",
+        "I/100K": "6.0"
+      },
+      {
+        "Stadt": "Schweinfurt Stadt",
+        "Fälle": "4",
+        "I/100K": "7.4"
+      },
+      {
+        "Stadt": "Ansbach",
+        "Fälle": "3",
+        "I/100K": "1.6"
+      },
+      {
+        "Stadt": "Amberg Stadt",
+        "Fälle": "2",
+        "I/100K": "4.8"
+      },
+      {
+        "Stadt": "Bayreuth Stadt",
+        "Fälle": "2",
+        "I/100K": "2.7"
+      }
+    ]
+  },
+  "Niedersachsen": {
+    "Infiziert": "1262",
+    "Verstorben": 0,
+    "I/100k": "15.8",
+    "Jede Stadt": [
+      {
+        "Stadt": "Region Hannover",
+        "Fälle": "121",
+        "I/100K": "10.5"
+      },
+      {
+        "Stadt": "Oldenburg Land",
+        "Fälle": "46",
+        "I/100K": "35.3"
+      },
+      {
+        "Stadt": "Osnabrück Stadt",
+        "Fälle": "33",
+        "I/100K": "20.0"
+      },
+      {
+        "Stadt": "Schaumburg",
+        "Fälle": "29",
+        "I/100K": "18.4"
+      },
+      {
+        "Stadt": "Hildesheim",
+        "Fälle": "28",
+        "I/100K": "10.1"
+      },
+      {
+        "Stadt": "Emsland",
+        "Fälle": "26",
+        "I/100K": "8.0"
+      },
+      {
+        "Stadt": "Diepholz",
+        "Fälle": "25",
+        "I/100K": "11.5"
+      },
+      {
+        "Stadt": "Göttingen",
+        "Fälle": "19",
+        "I/100K": "5.8"
+      },
+      {
+        "Stadt": "Harburg",
+        "Fälle": "18",
+        "I/100K": "7.1"
+      },
+      {
+        "Stadt": "Northeim",
+        "Fälle": "18",
+        "I/100K": "13.6"
+      },
+      {
+        "Stadt": "Osnabrück Land",
+        "Fälle": "17",
+        "I/100K": "4.8"
+      },
+      {
+        "Stadt": "Stade",
+        "Fälle": "17",
+        "I/100K": "8.4"
+      },
+      {
+        "Stadt": "Gifhorn",
+        "Fälle": "16",
+        "I/100K": "9.1"
+      },
+      {
+        "Stadt": "Peine",
+        "Fälle": "15",
+        "I/100K": "11.2"
+      },
+      {
+        "Stadt": "Celle",
+        "Fälle": "14",
+        "I/100K": "7.8"
+      },
+      {
+        "Stadt": "Aurich",
+        "Fälle": "13",
+        "I/100K": "6.8"
+      },
+      {
+        "Stadt": "Vechta",
+        "Fälle": "13",
+        "I/100K": "9.2"
+      },
+      {
+        "Stadt": "Osterholz",
+        "Fälle": "12",
+        "I/100K": "10.6"
+      },
+      {
+        "Stadt": "Oldenburg Stadt",
+        "Fälle": "11",
+        "I/100K": "6.5"
+      },
+      {
+        "Stadt": "Hameln-Pyrmont",
+        "Fälle": "9",
+        "I/100K": "6.1"
+      },
+      {
+        "Stadt": "Ammerland",
+        "Fälle": "8",
+        "I/100K": "6.4"
+      },
+      {
+        "Stadt": "Braunschweig",
+        "Fälle": "8",
+        "I/100K": "3.2"
+      },
+      {
+        "Stadt": "Holzminden",
+        "Fälle": "8",
+        "I/100K": "11.3"
+      },
+      {
+        "Stadt": "Verden",
+        "Fälle": "8",
+        "I/100K": "5.8"
+      },
+      {
+        "Stadt": "Goslar",
+        "Fälle": "7",
+        "I/100K": "5.1"
+      },
+      {
+        "Stadt": "Cuxhaven",
+        "Fälle": "6",
+        "I/100K": "3.0"
+      },
+      {
+        "Stadt": "Delmenhorst",
+        "Fälle": "6",
+        "I/100K": "7.7"
+      },
+      {
+        "Stadt": "Lüneburg",
+        "Fälle": "6",
+        "I/100K": "3.3"
+      },
+      {
+        "Stadt": "Uelzen",
+        "Fälle": "6",
+        "I/100K": "6.5"
+      },
+      {
+        "Stadt": "Grafschaft Bentheim",
+        "Fälle": "5",
+        "I/100K": "3.7"
+      },
+      {
+        "Stadt": "Rotenburg (Wümme)",
+        "Fälle": "5",
+        "I/100K": "3.1"
+      },
+      {
+        "Stadt": "Salzgitter",
+        "Fälle": "5",
+        "I/100K": "4.8"
+      },
+      {
+        "Stadt": "Emden",
+        "Fälle": "4",
+        "I/100K": "8.0"
+      },
+      {
+        "Stadt": "Nienburg/Weser",
+        "Fälle": "4",
+        "I/100K": "3.3"
+      },
+      {
+        "Stadt": "Friesland",
+        "Fälle": "3",
+        "I/100K": "3.0"
+      },
+      {
+        "Stadt": "Leer",
+        "Fälle": "3",
+        "I/100K": "1.8"
+      },
+      {
+        "Stadt": "Lüchow-Dannenberg",
+        "Fälle": "3",
+        "I/100K": "6.2"
+      },
+      {
+        "Stadt": "Wesermarsch",
+        "Fälle": "3",
+        "I/100K": "3.4"
+      },
+      {
+        "Stadt": "Wilhelmshaven",
+        "Fälle": "3",
+        "I/100K": "3.9"
+      },
+      {
+        "Stadt": "Wittmund",
+        "Fälle": "3",
+        "I/100K": "5.3"
+      },
+      {
+        "Stadt": "Wolfsburg",
+        "Fälle": "3",
+        "I/100K": "2.4"
+      },
+      {
+        "Stadt": "Cloppenburg",
+        "Fälle": "2",
+        "I/100K": "1.2"
+      },
+      {
+        "Stadt": "Helmstedt",
+        "Fälle": "2",
+        "I/100K": "2.2"
+      },
+      {
+        "Stadt": "Heidekreis",
+        "Fälle": "1",
+        "I/100K": "0.7"
+      },
+      {
+        "Stadt": "Wolfenbüttel",
+        "Fälle": "1",
+        "I/100K": "0.8"
+      }
+    ]
+  },
+  "Hessen": {
+    "Infiziert": "962",
+    "Verstorben": "2",
+    "I/100k": "15.4",
+    "Jede Stadt": [
+      {
+        "Stadt": "Frankfurt am Main",
+        "Fälle": "122",
+        "I/100K": "16.2"
+      },
+      {
+        "Stadt": "Fulda",
+        "Fälle": "73",
+        "I/100K": "32.8"
+      },
+      {
+        "Stadt": "Schwalm-Eder-Kreis",
+        "Fälle": "58",
+        "I/100K": "32.2"
+      },
+      {
+        "Stadt": "Hochtaunuskreis",
+        "Fälle": "52",
+        "I/100K": "22.0"
+      },
+      {
+        "Stadt": "Wiesbaden",
+        "Fälle": "52",
+        "I/100K": "18.7"
+      },
+      {
+        "Stadt": "Groß-Gerau",
+        "Fälle": "48",
+        "I/100K": "17.5"
+      },
+      {
+        "Stadt": "Main-Kinzig-Kreis",
+        "Fälle": "47",
+        "I/100K": "11.2"
+      },
+      {
+        "Stadt": "Landkreis Offenbach",
+        "Fälle": "43",
+        "I/100K": "12.1"
+      },
+      {
+        "Stadt": "Limburg-Weilburg",
+        "Fälle": "41",
+        "I/100K": "23.8"
+      },
+      {
+        "Stadt": "Main-Taunus-Kreis",
+        "Fälle": "40",
+        "I/100K": "16.8"
+      },
+      {
+        "Stadt": "Gießen",
+        "Fälle": "39",
+        "I/100K": "14.5"
+      },
+      {
+        "Stadt": "Kassel",
+        "Fälle": "38",
+        "I/100K": "18.9"
+      },
+      {
+        "Stadt": "Bergstraße",
+        "Fälle": "37",
+        "I/100K": "13.7"
+      },
+      {
+        "Stadt": "Marburg-Biedenkopf",
+        "Fälle": "34",
+        "I/100K": "13.8"
+      },
+      {
+        "Stadt": "Lahn-Dill-Kreis",
+        "Fälle": "32",
+        "I/100K": "12.6"
+      },
+      {
+        "Stadt": "Darmstadt-Dieburg",
+        "Fälle": "28",
+        "I/100K": "9.4"
+      },
+      {
+        "Stadt": "Landkreis Kassel",
+        "Fälle": "26",
+        "I/100K": "11.0"
+      },
+      {
+        "Stadt": "Rheingau-Taunus-Kreis",
+        "Fälle": "26",
+        "I/100K": "13.9"
+      },
+      {
+        "Stadt": "Wetteraukreis",
+        "Fälle": "26",
+        "I/100K": "8.5"
+      },
+      {
+        "Stadt": "Waldeck-Frankenberg",
+        "Fälle": "25",
+        "I/100K": "15.9"
+      },
+      {
+        "Stadt": "Hersfeld-Rotenburg",
+        "Fälle": "21",
+        "I/100K": "17.4"
+      },
+      {
+        "Stadt": "Vogelsbergkreis",
+        "Fälle": "17",
+        "I/100K": "16.1"
+      },
+      {
+        "Stadt": "Darmstadt",
+        "Fälle": "16",
+        "I/100K": "10.0"
+      },
+      {
+        "Stadt": "Odenwaldkreis",
+        "Fälle": "8",
+        "I/100K": "8.3"
+      },
+      {
+        "Stadt": "Offenbach am Main",
+        "Fälle": "5",
+        "I/100K": "3.9"
+      },
+      {
+        "Stadt": "Werra-Meißner-Kreis",
+        "Fälle": "2",
+        "I/100K": "2.0"
+      }
+    ]
+  },
+  "Rheinland-Pfalz": {
+    "Infiziert": "926",
+    "Verstorben": "2",
+    "I/100k": "22.7",
+    "Jede Stadt": [
+      {
+        "Stadt": "Mayen-Koblenz",
+        "Fälle": "105",
+        "I/100K": "49.0"
+      },
+      {
+        "Stadt": "Alzey-Worms",
+        "Fälle": "59",
+        "I/100K": "45.7"
+      },
+      {
+        "Stadt": "Bad Dürkheim",
+        "Fälle": "56",
+        "I/100K": "42.2"
+      },
+      {
+        "Stadt": "Mainz",
+        "Fälle": "55",
+        "I/100K": "25.3"
+      },
+      {
+        "Stadt": "Neuwied",
+        "Fälle": "53",
+        "I/100K": "29.1"
+      },
+      {
+        "Stadt": "Westerwaldkreis",
+        "Fälle": "51",
+        "I/100K": "25.3"
+      },
+      {
+        "Stadt": "Koblenz",
+        "Fälle": "42",
+        "I/100K": "36.8"
+      },
+      {
+        "Stadt": "Cochem-Zell",
+        "Fälle": "38",
+        "I/100K": "61.7"
+      },
+      {
+        "Stadt": "Donnersbergkreis",
+        "Fälle": "38",
+        "I/100K": "50.6"
+      },
+      {
+        "Stadt": "Mainz-Bingen",
+        "Fälle": "37",
+        "I/100K": "17.5"
+      },
+      {
+        "Stadt": "Rhein-Hunsrück-Kreis",
+        "Fälle": "37",
+        "I/100K": "35.9"
+      },
+      {
+        "Stadt": "Eifelkreis Bitburg-Prüm",
+        "Fälle": "32",
+        "I/100K": "32.5"
+      },
+      {
+        "Stadt": "Rhein-Lahn-Kreis",
+        "Fälle": "32",
+        "I/100K": "26.2"
+      },
+      {
+        "Stadt": "Ahrweiler",
+        "Fälle": "31",
+        "I/100K": "23.9"
+      },
+      {
+        "Stadt": "Südliche Weinstraße",
+        "Fälle": "28",
+        "I/100K": "25.4"
+      },
+      {
+        "Stadt": "Bad Kreuznach",
+        "Fälle": "23",
+        "I/100K": "14.5"
+      },
+      {
+        "Stadt": "Germersheim",
+        "Fälle": "22",
+        "I/100K": "17.0"
+      },
+      {
+        "Stadt": "Vulkaneifel",
+        "Fälle": "22",
+        "I/100K": "36.3"
+      },
+      {
+        "Stadt": "Trier-Saarburg",
+        "Fälle": "19",
+        "I/100K": "12.8"
+      },
+      {
+        "Stadt": "Kusel",
+        "Fälle": "18",
+        "I/100K": "25.5"
+      },
+      {
+        "Stadt": "Bernkastel-Wittlich",
+        "Fälle": "16",
+        "I/100K": "14.3"
+      },
+      {
+        "Stadt": "Ludwigshafen am Rhein",
+        "Fälle": "13",
+        "I/100K": "7.6"
+      },
+      {
+        "Stadt": "Kaiserslautern",
+        "Fälle": "13",
+        "I/100K": "12.3"
+      },
+      {
+        "Stadt": "Altenkirchen (Westerwald)",
+        "Fälle": "13",
+        "I/100K": "10.1"
+      },
+      {
+        "Stadt": "Landkreis Kaiserslautern",
+        "Fälle": "12",
+        "I/100K": "12.0"
+      },
+      {
+        "Stadt": "Trier",
+        "Fälle": "11",
+        "I/100K": "9.9"
+      },
+      {
+        "Stadt": "Frankenthal (Pfalz)",
+        "Fälle": "9",
+        "I/100K": "18.5"
+      },
+      {
+        "Stadt": "Rhein-Pfalz-Kreis",
+        "Fälle": "8",
+        "I/100K": "5.2"
+      },
+      {
+        "Stadt": "Speyer",
+        "Fälle": "8",
+        "I/100K": "15.9"
+      },
+      {
+        "Stadt": "Neustadt an der Weinstraße",
+        "Fälle": "7",
+        "I/100K": "13.2"
+      },
+      {
+        "Stadt": "Birkenfeld",
+        "Fälle": "5",
+        "I/100K": "6.2"
+      },
+      {
+        "Stadt": "Zweibrücken",
+        "Fälle": "4",
+        "I/100K": "11.7"
+      },
+      {
+        "Stadt": "Landau in der Pfalz",
+        "Fälle": "4",
+        "I/100K": "8.6"
+      },
+      {
+        "Stadt": "Südwestpfalz",
+        "Fälle": "3",
+        "I/100K": "3.2"
+      },
+      {
+        "Stadt": "Pirmasens",
+        "Fälle": "1",
+        "I/100K": "2.5"
+      },
+      {
+        "Stadt": "Worms",
+        "Fälle": "1",
+        "I/100K": "1.2"
+      }
+    ]
+  },
+  "Berlin": {
+    "Infiziert": "731",
+    "Verstorben": "1",
+    "I/100k": "20.1",
+    "Jede Stadt": [
+      {
+        "Stadt": "Berlin Stadt",
+        "Fälle": "731",
+        "I/100K": "20.1"
+      }
+    ]
+  },
+  "Hamburg": {
+    "Infiziert": "664",
+    "Verstorben": "1",
+    "I/100k": "36.1",
+    "Jede Stadt": [
+      {
+        "Stadt": "Hamburg Stadt",
+        "Fälle": "586",
+        "I/100K": "31.8"
+      }
+    ]
+  },
+  "Sachsen": {
+    "Infiziert": "562",
+    "Verstorben": "1",
+    "I/100k": "13.8",
+    "Jede Stadt": [
+      {
+        "Stadt": "Leipzig Stadt",
+        "Fälle": "119",
+        "I/100K": "20.2"
+      },
+      {
+        "Stadt": "Zwickau ",
+        "Fälle": "97",
+        "I/100K": "30.5"
+      },
+      {
+        "Stadt": "Dresden",
+        "Fälle": "50",
+        "I/100K": "9.0"
+      },
+      {
+        "Stadt": "Bautzen",
+        "Fälle": "48",
+        "I/100K": "16.0"
+      },
+      {
+        "Stadt": "Sächsische Schweiz-Osterzgebirge",
+        "Fälle": "35",
+        "I/100K": "14.3"
+      },
+      {
+        "Stadt": "Leipzig",
+        "Fälle": "32",
+        "I/100K": "12.4"
+      },
+      {
+        "Stadt": "Chemnitz",
+        "Fälle": "31",
+        "I/100K": "12.5"
+      },
+      {
+        "Stadt": "Mittelsachsen",
+        "Fälle": "24",
+        "I/100K": "7.8"
+      },
+      {
+        "Stadt": "Meißen",
+        "Fälle": "18",
+        "I/100K": "7.4"
+      },
+      {
+        "Stadt": "Görlitz ",
+        "Fälle": "13",
+        "I/100K": "5.1"
+      },
+      {
+        "Stadt": "Erzgebirgskreis",
+        "Fälle": "12",
+        "I/100K": "3.6"
+      },
+      {
+        "Stadt": "Vogtlandkreis",
+        "Fälle": "10",
+        "I/100K": "4.4"
+      },
+      {
+        "Stadt": "Nordsachsen",
+        "Fälle": "9",
+        "I/100K": "4.6"
+      }
+    ]
+  },
+  "Schleswig-Holstein": {
+    "Infiziert": "321",
+    "Verstorben": "1",
+    "I/100k": "11.1",
+    "Jede Stadt": [
+      {
+        "Stadt": "Pinneberg",
+        "Fälle": "60",
+        "I/100K": "19.1"
+      },
+      {
+        "Stadt": "Lübeck",
+        "Fälle": "43",
+        "I/100K": "19.8"
+      },
+      {
+        "Stadt": "Kiel",
+        "Fälle": "34",
+        "I/100K": "13.7"
+      },
+      {
+        "Stadt": "Herzogtum Lauenburg",
+        "Fälle": "24",
+        "I/100K": "12.2"
+      },
+      {
+        "Stadt": "Rendsburg-Eckernförde",
+        "Fälle": "24",
+        "I/100K": "8.8"
+      },
+      {
+        "Stadt": "Segeberg",
+        "Fälle": "23",
+        "I/100K": "8.3"
+      },
+      {
+        "Stadt": "Schleswig-Flensburg",
+        "Fälle": "22",
+        "I/100K": "11.0"
+      },
+      {
+        "Stadt": "Stormarn",
+        "Fälle": "21",
+        "I/100K": "8.6"
+      },
+      {
+        "Stadt": "Nordfriesland",
+        "Fälle": "12",
+        "I/100K": "7.3"
+      },
+      {
+        "Stadt": "Dithmarschen",
+        "Fälle": "11",
+        "I/100K": "8.3"
+      },
+      {
+        "Stadt": "Ostholstein",
+        "Fälle": "11",
+        "I/100K": "5.5"
+      },
+      {
+        "Stadt": "Plön",
+        "Fälle": "11",
+        "I/100K": "8.6"
+      },
+      {
+        "Stadt": "Flensburg",
+        "Fälle": "10",
+        "I/100K": "11.2"
+      },
+      {
+        "Stadt": "Steinburg",
+        "Fälle": "8",
+        "I/100K": "6.1"
+      },
+      {
+        "Stadt": "Neumünster",
+        "Fälle": "7",
+        "I/100K": "8.8"
+      }
+    ]
+  },
+  "Brandenburg": {
+    "Infiziert": "270",
+    "Verstorben": 0,
+    "I/100k": "10.7",
+    "Jede Stadt": [
+      {
+        "Stadt": "Oder-Spree",
+        "Fälle": "37",
+        "I/100K": "20.7"
+      },
+      {
+        "Stadt": "Barnim",
+        "Fälle": "29",
+        "I/100K": "15.9"
+      },
+      {
+        "Stadt": "Märkisch-Oderland",
+        "Fälle": "28",
+        "I/100K": "14.4"
+      },
+      {
+        "Stadt": "Spree-Neiße",
+        "Fälle": "23",
+        "I/100K": "20.1"
+      },
+      {
+        "Stadt": "Dahme-Spreewald",
+        "Fälle": "22",
+        "I/100K": "13.0"
+      },
+      {
+        "Stadt": "Potsdam",
+        "Fälle": "22",
+        "I/100K": "12.4"
+      },
+      {
+        "Stadt": "Oberhavel",
+        "Fälle": "21",
+        "I/100K": "9.9"
+      },
+      {
+        "Stadt": "Cottbus",
+        "Fälle": "20",
+        "I/100K": "20.0"
+      },
+      {
+        "Stadt": "Potsdam-Mittelmark",
+        "Fälle": "14",
+        "I/100K": "6.5"
+      },
+      {
+        "Stadt": "Teltow-Fläming",
+        "Fälle": "13",
+        "I/100K": "7.7"
+      },
+      {
+        "Stadt": "Havelland",
+        "Fälle": "10",
+        "I/100K": "6.2"
+      },
+      {
+        "Stadt": "Elbe-Elster",
+        "Fälle": "8",
+        "I/100K": "7.8"
+      },
+      {
+        "Stadt": "Oberspreewald-Lausitz",
+        "Fälle": "6",
+        "I/100K": "5.4"
+      },
+      {
+        "Stadt": "Ostprignitz-Ruppin",
+        "Fälle": "6",
+        "I/100K": "6.1"
+      },
+      {
+        "Stadt": "Uckermark",
+        "Fälle": "4",
+        "I/100K": "3.3"
+      },
+      {
+        "Stadt": "Brandenburg an der Havel",
+        "Fälle": "3",
+        "I/100K": "4.2"
+      },
+      {
+        "Stadt": "Frankfurt (Oder)",
+        "Fälle": "3",
+        "I/100K": "5.2"
+      },
+      {
+        "Stadt": "Prignitz",
+        "Fälle": "1",
+        "I/100K": "1.3"
+      }
+    ]
+  },
+  "Saarland": {
+    "Infiziert": "255",
+    "Verstorben": 0,
+    "I/100k": "25.7",
+    "Jede Stadt": [
+      {
+        "Stadt": "Regionalverband Saarbrücken",
+        "Fälle": "86",
+        "I/100K": "26.1"
+      },
+      {
+        "Stadt": "Saarlouis",
+        "Fälle": "37",
+        "I/100K": "19.0"
+      },
+      {
+        "Stadt": "St. Wendel",
+        "Fälle": "37",
+        "I/100K": "42.3"
+      },
+      {
+        "Stadt": "Saarpfalz-Kreis",
+        "Fälle": "35",
+        "I/100K": "24.5"
+      },
+      {
+        "Stadt": "Neunkirchen",
+        "Fälle": "30",
+        "I/100K": "22.7"
+      },
+      {
+        "Stadt": "Merzig-Wadern",
+        "Fälle": "14",
+        "I/100K": "13.5"
+      }
+    ]
+  },
+  "Thüringen": {
+    "Infiziert": "235",
+    "Verstorben": "0",
+    "I/100k": "11.0",
+    "Jede Stadt": [
+      {
+        "Stadt": "Erfurt",
+        "Fälle": "49",
+        "I/100K": "22.9"
+      },
+      {
+        "Stadt": "Jena",
+        "Fälle": "45",
+        "I/100K": "40.4"
+      },
+      {
+        "Stadt": "Greiz",
+        "Fälle": "29",
+        "I/100K": "29.5"
+      },
+      {
+        "Stadt": "Saalfeld-Rudolstadt",
+        "Fälle": "12",
+        "I/100K": "11.5"
+      },
+      {
+        "Stadt": "Kyffhäuserkreis",
+        "Fälle": "11",
+        "I/100K": "14.7"
+      },
+      {
+        "Stadt": "Schmalkalden-Meiningen",
+        "Fälle": "11",
+        "I/100K": "8.8"
+      },
+      {
+        "Stadt": "Saale-Holzland-Kreis",
+        "Fälle": "10",
+        "I/100K": "12.0"
+      },
+      {
+        "Stadt": "Wartburgkreis",
+        "Fälle": "9",
+        "I/100K": "7.5"
+      },
+      {
+        "Stadt": "Weimar",
+        "Fälle": "9",
+        "I/100K": "13.8"
+      },
+      {
+        "Stadt": "Eichsfeld",
+        "Fälle": "7",
+        "I/100K": "7.0"
+      },
+      {
+        "Stadt": "Gotha",
+        "Fälle": "6",
+        "I/100K": "4.4"
+      },
+      {
+        "Stadt": "Weimarer Land",
+        "Fälle": "6",
+        "I/100K": "7.3"
+      },
+      {
+        "Stadt": "Altenburger Land",
+        "Fälle": "5",
+        "I/100K": "5.5"
+      },
+      {
+        "Stadt": "Ilm-Kreis",
+        "Fälle": "5",
+        "I/100K": "4.7"
+      },
+      {
+        "Stadt": "Saale-Orla-Kreis",
+        "Fälle": "5",
+        "I/100K": "6.2"
+      },
+      {
+        "Stadt": "Unstrut-Hainich-Kreis",
+        "Fälle": "5",
+        "I/100K": "4.9"
+      },
+      {
+        "Stadt": "Gera",
+        "Fälle": "4",
+        "I/100K": "4.2"
+      },
+      {
+        "Stadt": "Nordhausen",
+        "Fälle": "3",
+        "I/100K": "3.6"
+      },
+      {
+        "Stadt": "Eisenach",
+        "Fälle": "2",
+        "I/100K": "4.7"
+      },
+      {
+        "Stadt": "Sömmerda",
+        "Fälle": "1",
+        "I/100K": "1.4"
+      },
+      {
+        "Stadt": "Suhl",
+        "Fälle": "1",
+        "I/100K": "2.7"
+      },
+      {
+        "Stadt": "Hildburghausen",
+        "Fälle": "0",
+        "I/100K": "0.0"
+      },
+      {
+        "Stadt": "Sonneberg",
+        "Fälle": "0",
+        "I/100K": "0.0"
+      }
+    ]
+  },
+  "Sachsen-Anhalt": {
+    "Infiziert": "217",
+    "Verstorben": 0,
+    "I/100k": "9.8",
+    "Jede Stadt": [
+      {
+        "Stadt": "Halle (Saale)",
+        "Fälle": "44",
+        "I/100K": "18.4"
+      },
+      {
+        "Stadt": "Magdeburg",
+        "Fälle": "39",
+        "I/100K": "16.3"
+      },
+      {
+        "Stadt": "Börde",
+        "Fälle": "29",
+        "I/100K": "16.9"
+      },
+      {
+        "Stadt": "Salzlandkreis",
+        "Fälle": "17",
+        "I/100K": "8.9"
+      },
+      {
+        "Stadt": "Burgenlandkreis",
+        "Fälle": "15",
+        "I/100K": "8.3"
+      },
+      {
+        "Stadt": "Saalekreis",
+        "Fälle": "14",
+        "I/100K": "7.6"
+      },
+      {
+        "Stadt": "Harz",
+        "Fälle": "12",
+        "I/100K": "5.6"
+      },
+      {
+        "Stadt": "Wittenberg",
+        "Fälle": "11",
+        "I/100K": "8.7"
+      },
+      {
+        "Stadt": "Stendal",
+        "Fälle": "10",
+        "I/100K": "8.9"
+      },
+      {
+        "Stadt": "Anhalt-Bitterfeld",
+        "Fälle": "9",
+        "I/100K": "5.6"
+      },
+      {
+        "Stadt": "Dessau-Roßlau",
+        "Fälle": "5",
+        "I/100K": "6.2"
+      },
+      {
+        "Stadt": "Mansfeld-Südharz",
+        "Fälle": "5",
+        "I/100K": "3.7"
+      },
+      {
+        "Stadt": "Jerichower Land",
+        "Fälle": "4",
+        "I/100K": "4.4"
+      },
+      {
+        "Stadt": "Altmarkkreis Salzwedel",
+        "Fälle": "3",
+        "I/100K": "3.6"
+      }
+    ]
+  },
+  "Mecklenburg-Vorpommern": {
+    "Infiziert": "167",
+    "Verstorben": 0,
+    "I/100k": "10.4",
+    "Jede Stadt": [
+      {
+        "Stadt": "Schwerin",
+        "Fälle": "33",
+        "I/100K": "34.4"
+      },
+      {
+        "Stadt": "Vorpommern-Greifswald",
+        "Fälle": "24",
+        "I/100K": "10.1"
+      },
+      {
+        "Stadt": "Mecklenburgische Seenplatte",
+        "Fälle": "23",
+        "I/100K": "8.9"
+      },
+      {
+        "Stadt": "Rostock (Stadt)",
+        "Fälle": "23",
+        "I/100K": "11.0"
+      },
+      {
+        "Stadt": "Ludwigslust-Parchim",
+        "Fälle": "18",
+        "I/100K": "8.5"
+      },
+      {
+        "Stadt": "Nordwestmecklenburg",
+        "Fälle": "17",
+        "I/100K": "10.8"
+      },
+      {
+        "Stadt": "Rostock (Land)",
+        "Fälle": "17",
+        "I/100K": "7.9"
+      },
+      {
+        "Stadt": "Vorpommern-Rügen",
+        "Fälle": "12",
+        "I/100K": "5.3"
+      }
+    ]
+  },
+  "Bremen": {
+    "Infiziert": "121",
+    "Verstorben": 0,
+    "I/100k": "17.7",
+    "Jede Stadt": [
+      {
+        "Stadt": "Bremen Stadt",
+        "Fälle": "121",
+        "I/100K": "17.7"
+      }
+    ]
+  }
+}
