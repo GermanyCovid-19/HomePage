@@ -1,2 +1,1 @@
-# HomePage
-中文实时更新德国疫情动态
+## COVID-19 Coronavirus Map / 新型冠状病毒肺炎疫情图
